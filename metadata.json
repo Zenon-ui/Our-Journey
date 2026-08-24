@@ -1,0 +1,6 @@
+{
+  "name": "40th Monthsary Celebration",
+  "description": "A romantic 40th monthsary celebration website with animated blueberry cake building, 4-0-T-H candle sequence, and 2000s-inspired romantic music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
